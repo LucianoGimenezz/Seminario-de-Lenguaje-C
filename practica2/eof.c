@@ -5,7 +5,7 @@
 
 int main(){
   int total = 0;
-  char c ;
+  int c ;
   c = getchar();
   while(c != EOF){
       printf("El valor de c es: %c -", c);
