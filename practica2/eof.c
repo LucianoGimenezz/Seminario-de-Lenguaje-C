@@ -5,10 +5,14 @@
 
 int main(){
   int total = 0;
+<<<<<<< HEAD
   int c ;
+=======
+  int c;
+>>>>>>> 3589a7e (update)
   c = getchar();
   while(c != EOF){
-      printf("El valor de c es: %c -", c);
+      putchar(c);
       total++;
       c = getchar();
   }
