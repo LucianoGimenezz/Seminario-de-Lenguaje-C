@@ -1,0 +1,1 @@
+void allocMem(int *x);
